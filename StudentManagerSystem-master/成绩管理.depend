@@ -1,0 +1,369 @@
+# depslib dependency file v1.0
+1546931384 source:d:\学习\c++\成绩管理\college.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 d:\学习\c++\成绩管理\student.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546861144 d:\学习\c++\成绩管理\han.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546925238 d:\学习\c++\成绩管理\primary.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862010 d:\学习\c++\成绩管理\high.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862074 d:\学习\c++\成绩管理\college.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862369 source:d:\学习\c++\成绩管理\han.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546931398 source:d:\学习\c++\成绩管理\high.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546928042 source:d:\学习\c++\成绩管理\main.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546931384 source:d:\学习\c++\成绩管理\primary.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 source:d:\学习\c++\成绩管理\student.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547170982 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\college.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\student.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546861144 c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\han.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546925238 c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\primary.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862010 c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\high.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862074 c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\college.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862369 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\han.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547172504 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\high.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547171696 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\main.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547174981 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\primary.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 source:c:\users\han1254\desktop\张涵-20188570-学生成绩管理\成绩管理\student.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547175083 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\college.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 d:\学习\张涵-20188570-学生成绩管理\成绩管理\student.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546861144 d:\学习\张涵-20188570-学生成绩管理\成绩管理\han.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546925238 d:\学习\张涵-20188570-学生成绩管理\成绩管理\primary.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862010 d:\学习\张涵-20188570-学生成绩管理\成绩管理\high.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862074 d:\学习\张涵-20188570-学生成绩管理\成绩管理\college.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862369 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\han.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547175083 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\high.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547171696 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\main.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547174981 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\primary.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 source:d:\学习\张涵-20188570-学生成绩管理\成绩管理\student.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547175083 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\college.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 d:\study\张涵-20188570-学生成绩管理\成绩管理\student.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546861144 d:\study\张涵-20188570-学生成绩管理\成绩管理\han.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546925238 d:\study\张涵-20188570-学生成绩管理\成绩管理\primary.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862010 d:\study\张涵-20188570-学生成绩管理\成绩管理\high.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862074 d:\study\张涵-20188570-学生成绩管理\成绩管理\college.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+
+1546862369 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\han.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547175083 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\high.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547171696 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\main.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1547174981 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\primary.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
+1546861144 source:d:\study\张涵-20188570-学生成绩管理\成绩管理\student.cpp
+	"student.h"
+	"han.h"
+	"primary.h"
+	"high.h"
+	"college.h"
+
